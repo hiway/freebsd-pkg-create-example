@@ -1,0 +1,2 @@
+@(hello, hello, 755) /usr/local/bin/hello
+@sample(root, wheel, 640) /usr/local/etc/hello.env.sample

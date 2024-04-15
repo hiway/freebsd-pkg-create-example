@@ -1,2 +1,2 @@
-@(hello, hello, 755) bin/hello
-@sample(root, wheel, 640) etc/hello.env.sample
+@(,, 755) bin/hello
+@sample(,, 640) etc/hello.env.sample

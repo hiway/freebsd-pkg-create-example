@@ -1,0 +1,14 @@
+name: hello
+version: "1.0"
+origin: devel/hello
+comment: An example package for FreeBSD
+arch: amd64
+www: https://www.example.com
+maintainer: example@example.com
+prefix: /usr/local
+desc: <<EOD
+  Adds command 'hello' to print 'Hello, world!'
+
+  Name can be configured by setting HELLO_NAME 
+  in /usr/local/etc/hello.env
+EOD
